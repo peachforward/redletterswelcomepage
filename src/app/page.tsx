@@ -33,6 +33,17 @@ const Index = () => {
                 RedLetterJobs is Re-launching soon.....
               </p>
             </div>
+            <div className="mt-8">
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdsvMXLPUVeXtYwKj61KN7ep6Jzv4Ptenk4e_bbuxOovvRliA/viewform"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block px-8 py-4 rounded-full bg-gradient-to-r from-pink-500 via-red-500 to-orange-500 
+                           text-white font-semibold shadow-lg shadow-red-500/30 hover:opacity-90 transition"
+              >
+                We’re Hiring – Apply Here
+              </a>
+            </div>
 
             <CountdownTimer />
           </div>
