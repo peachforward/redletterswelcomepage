@@ -11,14 +11,14 @@ const Index = () => {
           <div className="text-center space-y-12 animate-fade-up">
             <div className="space-y-6">
               {/* Badge */}
-              <div
+              {/* <div
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-full 
                               bg-gradient-to-r from-pink-500 via-red-500 to-orange-500 
                               shadow-lg shadow-red-500/30"
               >
                 <Clock className="h-5 w-5 text-white" />
                 <span className="font-semibold text-white">COMING SOON</span>
-              </div>
+              </div> */}
 
               {/* Heading */}
               <h1 className="text-5xl lg:text-7xl font-bold text-white leading-tight max-w-4xl mx-auto">
@@ -30,7 +30,7 @@ const Index = () => {
 
               {/* Subtext */}
               <p className="text-xl lg:text-2xl text-gray-300 leading-relaxed max-w-3xl mx-auto">
-                RedLetterJobs is Re-launching soon.....
+                RedLetterJobs is coming back, re-launching on 1st November!{" "}
               </p>
             </div>
             <div className="mt-8">
