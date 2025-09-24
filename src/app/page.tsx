@@ -24,7 +24,7 @@ const Index = () => {
               <h1 className="text-5xl lg:text-7xl font-bold text-white leading-tight max-w-4xl mx-auto">
                 The Best Church Jobs
                 <span className="bg-gradient-to-r from-pink-500 via-red-500 to-orange-500 bg-clip-text text-transparent">
-                  <br />are coming back{" "}
+                  <br />is coming back{" "}
                 </span>
               </h1>
 
