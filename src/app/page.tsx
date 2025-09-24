@@ -22,15 +22,16 @@ const Index = () => {
 
               {/* Heading */}
               <h1 className="text-5xl lg:text-7xl font-bold text-white leading-tight max-w-4xl mx-auto">
-                The Future of Job Searching is{" "}
+                The Best Church Jobs
                 <span className="bg-gradient-to-r from-pink-500 via-red-500 to-orange-500 bg-clip-text text-transparent">
-                  Almost Here
+                  <br />are coming back{" "}
                 </span>
               </h1>
 
               {/* Subtext */}
               <p className="text-xl lg:text-2xl text-gray-300 leading-relaxed max-w-3xl mx-auto">
-                RedLetterJobs is coming back, re-launching on 1st November!{" "}
+                RedLetterJobs is re-launching on November 1st — bigger and
+                better than ever!
               </p>
             </div>
             <div className="mt-8">
@@ -38,10 +39,10 @@ const Index = () => {
                 href="https://docs.google.com/forms/d/e/1FAIpQLSdsvMXLPUVeXtYwKj61KN7ep6Jzv4Ptenk4e_bbuxOovvRliA/viewform"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-block px-8 py-4 rounded-full bg-gradient-to-r from-pink-500 via-red-500 to-orange-500 
+                className=" capitalize inline-block px-8 py-4 rounded-full bg-gradient-to-r from-pink-500 via-red-500 to-orange-500 
                            text-white font-semibold shadow-lg shadow-red-500/30 hover:opacity-90 transition"
               >
-                We’re Hiring – Apply Here
+                Upload your church resume{" "}
               </a>
             </div>
 
