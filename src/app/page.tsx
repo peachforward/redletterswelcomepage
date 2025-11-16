@@ -30,7 +30,7 @@ const Index = () => {
 
               {/* Subtext */}
               <p className="text-xl lg:text-2xl text-gray-300 leading-relaxed max-w-3xl mx-auto">
-                RedLetterJobs is re-launching on November 1st — bigger and
+                RedLetterJobs is re-launching on December 1st — bigger and
                 better than ever!
               </p>
             </div>
