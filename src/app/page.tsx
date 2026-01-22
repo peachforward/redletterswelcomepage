@@ -45,7 +45,7 @@ const Index = () => {
               </a>
             </div>
 
-            <CountdownTimer />
+            {/* <CountdownTimer /> */}
           </div>
         </div>
       </section>
